@@ -1,3 +1,3 @@
 ## PracticePython.org
-Repo for Practice Python exercises from Practice Python
+Repo for Practice Python exercises from
 http://www.practicepython.org
